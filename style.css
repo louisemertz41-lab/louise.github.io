@@ -10,7 +10,7 @@
       color: #fff;
       display: flex;
       flex-direction: column;
-      min-height: 100vh;
+      min-height: 80vh;
       text-align: center;
     }
 
@@ -517,4 +517,5 @@ hr.shine::before {
       height: 28px;
       transition: transform 0.3s, filter 0.3s;
       filter: invert(1); /* make icons white if not pure white */
+
     }
